@@ -34,4 +34,5 @@ body {
 .header__logo{
 
     font-family: Shrikhand;
+    gap: 10px;
 }
